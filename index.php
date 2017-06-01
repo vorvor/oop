@@ -109,3 +109,10 @@ Table::add($a);
 
 
 Table::ShowProgram();
+
+// Az lenne menő, ha a Table:add sorok nem kellenének, 
+// hanem a Table:ShowProgram valahogy bepullozná a programokat, amik létre lettek hozva, és aztán
+// végig iterálna rajtuk és kiírná őket,a hogy most is.
+// Nem tudom ilyet lehet-e
+
+
